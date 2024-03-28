@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color: rgb(188, 183, 102);
+    font-family: sans-serif;
+
+}
+p{
+    text-align: left;
+}
+#Name{
+    text-align: center;
+    font-size:0.5;
+    font-style: italic;
+}
+#Intro{
+    font-family: sans-serif;
+    font-size: x-large;
+    text-decoration: underline;
+    text-align: left;
+}
+#Gen{
+    text-align: left;
+    font-family: sans-serif;
+    font-size: medium;
+}
+#Sexes{
+    text-align: left;
+    font-family: sans-serif;
+    text-decoration: underline;
+    font-size: x-large;
+}
+#LifeCycle{
+    font-style: italic;
+}
+#Anatomy{
+    font-family: sans-serif;
+    font-size: x-large;
+    text-decoration: underline;
+    text-align: left;
+}
+#Important{
+    font-family: sans-serif;
+    font-size: x-large;
+    text-decoration: underline;
+    text-align: left;
+}
